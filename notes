@@ -1,8 +1,8 @@
-Cross-Media Retrieval System (Python, MySQL, JavaScript, HTML, CSS, C#, CNN, TensorFlow)
+Cross-Media Retrieval System (Python, MySQL, JavaScript, HTML, CSS, Java, CNN, TensorFlow)
 • An web application for searching relevant text, images, videos, audios in database
 • Crawled thousands of images, videos, texts from news channels and WIKIpedia (Python)
 • Extracted features from data and stored features in database for searching (CNN, TensorFlow)
-• Built an API interface to compute similarities from different types of data (C#)
+• Built an API interface to compute similarities from different types of data (Java)
 • Manipulated relational database to store and read thousands of different modal data (MySQL)
 • Created a user-friendly web page for searching, uploading and displaying the videos and images from local resources (HTML, CSS, JavaScript)
 
