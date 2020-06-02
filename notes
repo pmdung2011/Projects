@@ -1,0 +1,12 @@
+Cross-Media Retrieval System (Python, MySQL, JavaScript, HTML, CSS, C#, CNN, TensorFlow)
+• An web application for searching relevant text, images, videos, audios in database
+• Crawled thousands of images, videos, texts from news channels and WIKIpedia (Python)
+• Extracted features from data and stored features in database for searching (CNN, TensorFlow)
+• Built an API interface to compute similarities from different types of data (C#)
+• Manipulated relational database to store and read thousands of different modal data (MySQL)
+• Created a user-friendly web page for searching, uploading and displaying the videos and images from local resources (HTML, CSS, JavaScript)
+
+Video Action Recognition with Co-attention Network (Python, TensorFlow, Matlab)
+• Extracted features from temporal, spatial frames in videos based on LSTM network (Python, TensorFlow)
+• Based on attention mechanism to achieve better fusion of class score (MATLAB)
+• Improved the state-of-the-art on the UCF-50 dataset from 92.4% to 94.8%, and from 66.4% to 68.7% on the HMDB-51 dataset by fusing several modalities, features, classifier decision scores
